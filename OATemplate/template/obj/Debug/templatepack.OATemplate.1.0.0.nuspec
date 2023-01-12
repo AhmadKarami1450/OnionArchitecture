@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>templatepack.OATemplate</id>
+    <version>1.0.0</version>
+    <authors>Your name here</authors>
+    <description>A description for your template pack</description>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <dependencies>
+      <group targetFramework=".NETStandard1.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\VS\OArc\src\.template.config\template.json" target="Content\.template.config\template.json" />
+    <file src="E:\VS\OArc\src\.template.config\template.vstemplate" target="Content\.template.config\template.vstemplate" />
+    <file src="E:\VS\OArc\src\OA.Domain\Auth\ApplicationUser.cs" target="Content\OA.Domain\Auth\ApplicationUser.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Auth\AuthenticationRequest.cs" target="Content\OA.Domain\Auth\AuthenticationRequest.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Auth\AuthenticationResponse.cs" target="Content\OA.Domain\Auth\AuthenticationResponse.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Auth\ForgotPasswordRequest.cs" target="Content\OA.Domain\Auth\ForgotPasswordRequest.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Auth\RefreshToken.cs" target="Content\OA.Domain\Auth\RefreshToken.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Auth\RegisterRequest.cs" target="Content\OA.Domain\Auth\RegisterRequest.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Auth\ResetPasswordRequest.cs" target="Content\OA.Domain\Auth\ResetPasswordRequest.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\BaseEntity.cs" target="Content\OA.Domain\BaseEntity.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Common\IpHelper.cs" target="Content\OA.Domain\Common\IpHelper.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Common\Response.cs" target="Content\OA.Domain\Common\Response.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Entities\Category.cs" target="Content\OA.Domain\Entities\Category.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Entities\Customer.cs" target="Content\OA.Domain\Entities\Customer.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Entities\Order.cs" target="Content\OA.Domain\Entities\Order.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Entities\OrderDetail.cs" target="Content\OA.Domain\Entities\OrderDetail.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Entities\Product.cs" target="Content\OA.Domain\Entities\Product.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Entities\Supplier.cs" target="Content\OA.Domain\Entities\Supplier.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Enum\FeatureManagement.cs" target="Content\OA.Domain\Enum\FeatureManagement.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Enum\Roles.cs" target="Content\OA.Domain\Enum\Roles.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\OA.Domain.csproj" target="Content\OA.Domain\OA.Domain.csproj" />
+    <file src="E:\VS\OArc\src\OA.Domain\Settings\ApplicationDetail.cs" target="Content\OA.Domain\Settings\ApplicationDetail.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Settings\AppSettings.cs" target="Content\OA.Domain\Settings\AppSettings.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Settings\JWTSettings.cs" target="Content\OA.Domain\Settings\JWTSettings.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Settings\MailRequest.cs" target="Content\OA.Domain\Settings\MailRequest.cs" />
+    <file src="E:\VS\OArc\src\OA.Domain\Settings\MailSettings.cs" target="Content\OA.Domain\Settings\MailSettings.cs" />
+    <file src="E:\VS\OArc\src\OA.Infrastructure\Extension\ConfigureContainer.cs" target="Content\OA.Infrastructure\Extension\ConfigureContainer.cs" />
+    <file src="E:\VS\OArc\src\OA.Infrastructure\Extension\ConfigureServiceContainer.cs" target="Content\OA.Infrastructure\Extension\ConfigureServiceContainer.cs" />
+    <file src="E:\VS\OArc\src\OA.Infrastructure\Mapping\CustomerProfile.cs" target="Content\OA.Infrastructure\Mapping\CustomerProfile.cs" />
+    <file src="E:\VS\OArc\src\OA.Infrastructure\OA.Infrastructure.csproj" target="Content\OA.Infrastructure\OA.Infrastructure.csproj" />
+    <file src="E:\VS\OArc\src\OA.Infrastructure\ViewModel\CustomerModel.cs" target="Content\OA.Infrastructure\ViewModel\CustomerModel.cs" />
+    <file src="E:\VS\OArc\src\OA.Persistence\ApplicationDbContext.cs" target="Content\OA.Persistence\ApplicationDbContext.cs" />
+    <file src="E:\VS\OArc\src\OA.Persistence\ApplicationDbContext.dgml" target="Content\OA.Persistence\ApplicationDbContext.dgml" />
+    <file src="E:\VS\OArc\src\OA.Persistence\IApplicationDbContext.cs" target="Content\OA.Persistence\IApplicationDbContext.cs" />
+    <file src="E:\VS\OArc\src\OA.Persistence\IdentityContext.cs" target="Content\OA.Persistence\IdentityContext.cs" />
+    <file src="E:\VS\OArc\src\OA.Persistence\OA.Persistence.csproj" target="Content\OA.Persistence\OA.Persistence.csproj" />
+    <file src="E:\VS\OArc\src\OA.Persistence\Seeds\ContextSeed.cs" target="Content\OA.Persistence\Seeds\ContextSeed.cs" />
+    <file src="E:\VS\OArc\src\OA.Persistence\Seeds\DefaultRoles.cs" target="Content\OA.Persistence\Seeds\DefaultRoles.cs" />
+    <file src="E:\VS\OArc\src\OA.Persistence\Seeds\DefaultUser.cs" target="Content\OA.Persistence\Seeds\DefaultUser.cs" />
+    <file src="E:\VS\OArc\src\OA.Persistence\Seeds\MappingUserRole.cs" target="Content\OA.Persistence\Seeds\MappingUserRole.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Contract\IAccountService.cs" target="Content\OA.Service\Contract\IAccountService.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Contract\IAuthenticatedUserService.cs" target="Content\OA.Service\Contract\IAuthenticatedUserService.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Contract\IDateTimeService.cs" target="Content\OA.Service\Contract\IDateTimeService.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Contract\IEmailService.cs" target="Content\OA.Service\Contract\IEmailService.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\DependencyInjection.cs" target="Content\OA.Service\DependencyInjection.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Exceptions\ApiException.cs" target="Content\OA.Service\Exceptions\ApiException.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Exceptions\BadRequestException.cs" target="Content\OA.Service\Exceptions\BadRequestException.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Exceptions\DeleteFailureException.cs" target="Content\OA.Service\Exceptions\DeleteFailureException.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Exceptions\NotFoundException.cs" target="Content\OA.Service\Exceptions\NotFoundException.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Exceptions\ValidationException.cs" target="Content\OA.Service\Exceptions\ValidationException.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Features\CustomerFeatures\Commands\CreateCustomerCommand.cs" target="Content\OA.Service\Features\CustomerFeatures\Commands\CreateCustomerCommand.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Features\CustomerFeatures\Commands\DeleteCustomerByIdCommand.cs" target="Content\OA.Service\Features\CustomerFeatures\Commands\DeleteCustomerByIdCommand.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Features\CustomerFeatures\Commands\UpdateCustomerCommand.cs" target="Content\OA.Service\Features\CustomerFeatures\Commands\UpdateCustomerCommand.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Features\CustomerFeatures\Queries\GetAllCustomerQuery.cs" target="Content\OA.Service\Features\CustomerFeatures\Queries\GetAllCustomerQuery.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Features\CustomerFeatures\Queries\GetCustomerByIdQuery.cs" target="Content\OA.Service\Features\CustomerFeatures\Queries\GetCustomerByIdQuery.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Implementation\AccountService.cs" target="Content\OA.Service\Implementation\AccountService.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Implementation\DateTimeService.cs" target="Content\OA.Service\Implementation\DateTimeService.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Implementation\MailService.cs" target="Content\OA.Service\Implementation\MailService.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\Middleware\CustomExceptionMiddleware.cs" target="Content\OA.Service\Middleware\CustomExceptionMiddleware.cs" />
+    <file src="E:\VS\OArc\src\OA.Service\OA.Service.csproj" target="Content\OA.Service\OA.Service.csproj" />
+    <file src="E:\VS\OArc\src\OA.sln" target="Content\OA.sln" />
+    <file src="E:\VS\OArc\src\OA.Test.Integration\ApiCustomerTest.cs" target="Content\OA.Test.Integration\ApiCustomerTest.cs" />
+    <file src="E:\VS\OArc\src\OA.Test.Integration\OA.Test.Integration.csproj" target="Content\OA.Test.Integration\OA.Test.Integration.csproj" />
+    <file src="E:\VS\OArc\src\OA.Test.Integration\TestClientProvider.cs" target="Content\OA.Test.Integration\TestClientProvider.cs" />
+    <file src="E:\VS\OArc\src\OA.Test.Unit\OA.Test.Unit.csproj" target="Content\OA.Test.Unit\OA.Test.Unit.csproj" />
+    <file src="E:\VS\OArc\src\OA.Test.Unit\Persistence\ApplicationDbContextTest.cs" target="Content\OA.Test.Unit\Persistence\ApplicationDbContextTest.cs" />
+    <file src="E:\VS\OArc\src\OATemplate\index.html" target="Content\OATemplate\index.html" />
+    <file src="E:\VS\OArc\src\OATemplate\LICENSE.txt" target="Content\OATemplate\LICENSE.txt" />
+    <file src="E:\VS\OArc\src\OATemplate\OATemplate.csproj" target="Content\OATemplate\OATemplate.csproj" />
+    <file src="E:\VS\OArc\src\OATemplate\OnionArchitecture_icon.png" target="Content\OATemplate\OnionArchitecture_icon.png" />
+    <file src="E:\VS\OArc\src\OATemplate\Properties\AssemblyInfo.cs" target="Content\OATemplate\Properties\AssemblyInfo.cs" />
+    <file src="E:\VS\OArc\src\OATemplate\Properties\project-icon.png" target="Content\OATemplate\Properties\project-icon.png" />
+    <file src="E:\VS\OArc\src\OATemplate\Properties\wafflebuilder.targets" target="Content\OATemplate\Properties\wafflebuilder.targets" />
+    <file src="E:\VS\OArc\src\OATemplate\Resources\OnionArchitecture_icon.png" target="Content\OATemplate\Resources\OnionArchitecture_icon.png" />
+    <file src="E:\VS\OArc\src\OATemplate\source.extension.vsixmanifest" target="Content\OATemplate\source.extension.vsixmanifest" />
+    <file src="E:\VS\OArc\src\OATemplate\stylesheet.css" target="Content\OATemplate\stylesheet.css" />
+    <file src="E:\VS\OArc\src\OATemplate\template.pkgdef" target="Content\OATemplate\template.pkgdef" />
+    <file src="E:\VS\OArc\src\OATemplate\template\templatepack.OATemplate.proj" target="Content\OATemplate\template\templatepack.OATemplate.proj" />
+    <file src="E:\VS\OArc\src\OA\appsettings.Development.json" target="Content\OA\appsettings.Development.json" />
+    <file src="E:\VS\OArc\src\OA\appsettings.json" target="Content\OA\appsettings.json" />
+    <file src="E:\VS\OArc\src\OA\Controllers\AccountController.cs" target="Content\OA\Controllers\AccountController.cs" />
+    <file src="E:\VS\OArc\src\OA\Controllers\CustomerController.cs" target="Content\OA\Controllers\CustomerController.cs" />
+    <file src="E:\VS\OArc\src\OA\Controllers\MailController.cs" target="Content\OA\Controllers\MailController.cs" />
+    <file src="E:\VS\OArc\src\OA\Controllers\MetaController.cs" target="Content\OA\Controllers\MetaController.cs" />
+    <file src="E:\VS\OArc\src\OA\Customization\custom.css" target="Content\OA\Customization\custom.css" />
+    <file src="E:\VS\OArc\src\OA\OA.csproj" target="Content\OA\OA.csproj" />
+    <file src="E:\VS\OArc\src\OA\Program.cs" target="Content\OA\Program.cs" />
+    <file src="E:\VS\OArc\src\OA\Properties\launchSettings.json" target="Content\OA\Properties\launchSettings.json" />
+    <file src="E:\VS\OArc\src\OA\Startup.cs" target="Content\OA\Startup.cs" />
+  </files>
+</package>

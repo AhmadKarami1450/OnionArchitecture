@@ -1,0 +1,17 @@
+E:\VS\OArc\src\OA.Persistence\bin\Debug\net6.0\OA.Persistence.deps.json
+E:\VS\OArc\src\OA.Persistence\bin\Debug\net6.0\OA.Persistence.runtimeconfig.json
+E:\VS\OArc\src\OA.Persistence\bin\Debug\net6.0\OA.Persistence.dll
+E:\VS\OArc\src\OA.Persistence\bin\Debug\net6.0\OA.Persistence.pdb
+E:\VS\OArc\src\OA.Persistence\bin\Debug\net6.0\OA.Domain.dll
+E:\VS\OArc\src\OA.Persistence\bin\Debug\net6.0\OA.Domain.pdb
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\OA.Persistence.csproj.AssemblyReference.cache
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\OA.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\OA.Persistence.AssemblyInfoInputs.cache
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\OA.Persistence.AssemblyInfo.cs
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\OA.Persistence.csproj.CoreCompileInputs.cache
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\OA.Persistence.csproj.CopyComplete
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\OA.Persistence.dll
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\refint\OA.Persistence.dll
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\OA.Persistence.pdb
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\OA.Persistence.genruntimeconfig.cache
+E:\VS\OArc\src\OA.Persistence\obj\Debug\net6.0\ref\OA.Persistence.dll

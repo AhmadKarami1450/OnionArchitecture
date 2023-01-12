@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VS\\OArc\\src\\OATemplate\\template\\templatepack.OATemplate.proj": {}
+  },
+  "projects": {
+    "E:\\VS\\OArc\\src\\OATemplate\\template\\templatepack.OATemplate.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS\\OArc\\src\\OATemplate\\template\\templatepack.OATemplate.proj",
+        "projectName": "templatepack.OATemplate",
+        "projectPath": "E:\\VS\\OArc\\src\\OATemplate\\template\\templatepack.OATemplate.proj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "E:\\VS\\OArc\\src\\OATemplate\\template\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\VSSDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.0": {
+            "targetAlias": "netstandard1.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard1.0": {
+          "targetAlias": "netstandard1.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

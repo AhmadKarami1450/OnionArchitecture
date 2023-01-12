@@ -1,0 +1,14 @@
+E:\VS\OArc\src\OATemplate\bin\Debug\LICENSE.txt
+E:\VS\OArc\src\OATemplate\bin\Debug\OnionArchitecture_icon.png
+E:\VS\OArc\src\OATemplate\bin\Debug\Resources\OnionArchitecture_icon.png
+E:\VS\OArc\src\OATemplate\bin\Debug\OATemplate.vsix
+E:\VS\OArc\src\OATemplate\bin\Debug\extension.vsixmanifest
+E:\VS\OArc\src\OATemplate\obj\Debug\OATemplate.csproj.AssemblyReference.cache
+E:\VS\OArc\src\OATemplate\obj\Debug\_EmptyResource.resources
+E:\VS\OArc\src\OATemplate\obj\Debug\OATemplate.csproj.GenerateResource.cache
+E:\VS\OArc\src\OATemplate\obj\Debug\OATemplate.csproj.CoreCompileInputs.cache
+E:\VS\OArc\src\OATemplate\obj\Debug\OATemplate.dll
+E:\VS\OArc\src\OATemplate\obj\Debug\OATemplate.pdb
+E:\VS\OArc\src\OATemplate\obj\Debug\extension.vsixmanifest
+E:\VS\OArc\src\OATemplate\obj\Debug\files.json
+E:\VS\OArc\src\OATemplate\obj\Debug\createTemplateManifests.cache

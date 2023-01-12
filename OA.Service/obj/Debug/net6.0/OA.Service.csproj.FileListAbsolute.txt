@@ -1,0 +1,17 @@
+E:\VS\OArc\src\OA.Service\bin\Debug\net6.0\OA.Service.deps.json
+E:\VS\OArc\src\OA.Service\bin\Debug\net6.0\OA.Service.dll
+E:\VS\OArc\src\OA.Service\bin\Debug\net6.0\OA.Service.pdb
+E:\VS\OArc\src\OA.Service\bin\Debug\net6.0\OA.Domain.dll
+E:\VS\OArc\src\OA.Service\bin\Debug\net6.0\OA.Persistence.dll
+E:\VS\OArc\src\OA.Service\bin\Debug\net6.0\OA.Persistence.pdb
+E:\VS\OArc\src\OA.Service\bin\Debug\net6.0\OA.Domain.pdb
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\OA.Service.csproj.AssemblyReference.cache
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\OA.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\OA.Service.AssemblyInfoInputs.cache
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\OA.Service.AssemblyInfo.cs
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\OA.Service.csproj.CoreCompileInputs.cache
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\OA.Service.csproj.CopyComplete
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\OA.Service.dll
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\refint\OA.Service.dll
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\OA.Service.pdb
+E:\VS\OArc\src\OA.Service\obj\Debug\net6.0\ref\OA.Service.dll
